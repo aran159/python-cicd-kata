@@ -218,7 +218,7 @@ More details: [Act Usage Guide](https://nektosact.com/usage/index.html#using-eve
 
 ### Submission
 
-To submit the exercise, please send an email to aulaupm@nextdigital.es before the start of the next workshop (April 23, 2025), including:
+To submit the exercise, please send an email to aulaupm@nextdigital.es before the start of the next workshop (December 9, 2025), including:
 
 1. The link to the GitHub Actions CI/CD pipeline used to deploy the service to Docker Hub and Render.
 2. The URL of the deployed service. The URL should point directly to the Swagger documentation.
